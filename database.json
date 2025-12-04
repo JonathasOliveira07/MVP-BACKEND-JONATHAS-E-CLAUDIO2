@@ -1,0 +1,161 @@
+{
+  "users": [
+    {
+      "email": "contato@cicatriz.dev",
+      "password": "$2a$10$ftEtN7xbl5GPml5pmDnclOqCrEI4XQTl.ljFu80DCX8i9TSnGQI4S",
+      "name": "Pedro Cicatriz",
+      "id": 1,
+      "description": "Outro Pedro",
+      "categories": [
+        "Parque Estadual dos Três Picos",
+        "Poço Dois Irmãos"
+      ]
+    },
+    {
+      "id": 2,
+      "email": "pedrocmello.bsi@gmail.com",
+      "name": "Pedro Mello",
+      "googleId": "117469691758159505685",
+      "password": null,
+      "description": "Sou engenheiro de software a mais de 10 anos e gosto de desafios",
+      "categories": [
+        "Pedra do Sino",
+        "Cachoeira dos Frades",
+        "Poço Dois Irmãos"
+      ]
+    },
+    {
+      "id": 3,
+      "email": "araa1995@hotmail.com",
+      "password": "$2b$10$flqb2I5bNv0J7kJ0vCNWheYMZFWYRZ97dbpuOOpv.9GjoGBYJghle",
+      "name": "Jumanji",
+      "description": "",
+      "categories": [
+        "Parque Estadual dos Três Picos",
+        "Cachoeira dos Frades",
+        "Poço Dois Irmãos"
+      ]
+    },
+    {
+      "id": 4,
+      "email": "esposa@hotmail.com",
+      "password": "$2b$10$9ObYd5QF3PRMS.hsOf/Dku3T0UPGtijZCq1S7O0EI.CLwvv/CDCDW",
+      "name": "Juliana",
+      "description": "",
+      "categories": [
+        "Parque Estadual dos Três Picos",
+        "Pedra do Sino",
+        "Cachoeira dos Frades",
+        "Poço Dois Irmãos"
+      ]
+    },
+    {
+      "id": 5,
+      "email": "claudio@gmail.com",
+      "password": "$2b$10$cbGHmoyCjgkDbT.3xVCKWOga35PH0w4zHa4VbSifMxAEqO7Rce3me",
+      "name": "iniClaudio"
+    }
+  ],
+  "devs": [
+    {
+      "id": "1",
+      "paisagemimg": "/src/assets/paisagens/img_01.jpg",
+      "name": "Parque Estadual dos Três Picos",
+      "categories": [
+        "Fácil"
+      ],
+      "email": "TrêsPicosDúvidas@TereTrilhas",
+      "description": "Trilha de nível moderado para aqueles que querem apreciar uma boa vista e um momento de avetura."
+    },
+    {
+      "id": "2",
+      "paisagemimg": "/src/assets/paisagens/img_02.jpg",
+      "name": "Vale dos Deuses",
+      "categories": [
+        "Fácil"
+      ],
+      "email": "ValeDuvidas@TereTrilhas",
+      "description": "Trilha Nível Fácil muito bonita."
+    },
+    {
+      "id": "3",
+      "paisagemimg": "/src/assets/paisagens/img_03.jpg",
+      "name": "Dois Bicos de Sebastiana",
+      "categories": [
+        "Difícil"
+      ],
+      "email": "DoisBicosDúvidas@TereTrilhas",
+      "description": "Trilha de nível difícil, boa para quem gosta de desafios e muito bonita."
+    },
+    {
+      "id": "4",
+      "paisagemimg": "/src/assets/paisagens/img_04.jpg",
+      "name": "Pedra do sino",
+      "categories": [
+        "Difícil"
+      ],
+      "email": "PedraDoSinoDúvidas@TereTrilhas",
+      "description": "Trilha de nível díficil muito atrativa e divertida para quem gosta de desafios."
+    },
+    {
+      "id": "5",
+      "paisagemimg": "/src/assets/paisagens/img_05.jpg",
+      "name": "Travessia Petrópolis-Teresópolis",
+      "categories": [
+        "Difícil"
+      ],
+      "email": "TravPetTereDúvidas@TereTrilhas",
+      "description": "Desafiadora e muito bonita travessia entre as cidades de Petrópolis e Teresópolis."
+    },
+    {
+      "id": "6",
+      "paisagemimg": "/src/assets/paisagens/img_06.jpg",
+      "name": "Cachoeira dos Frades",
+      "categories": [
+        "Fácil"
+      ],
+      "email": "fradesdúvidas@TereTrilhas",
+      "description": "Muito bonita e tranquila de fazer."
+    },
+    {
+      "id": "7",
+      "paisagemimg": "/src/assets/paisagens/img_07.jpg",
+      "name": "Cartão postal",
+      "categories": [
+        "Moderado"
+      ],
+      "email": "CartãoPostalDúvidas@TereTrilhas",
+      "description": "Trilha agradável e bonita."
+    },
+    {
+      "id": "8",
+      "paisagemimg": "/src/assets/paisagens/img_08.jpg",
+      "name": "Poço Dois Irmãos",
+      "categories": [
+        "Fácil"
+      ],
+      "email": "PoçoDoisIrmãosDúvidas@TereTrilhas",
+      "description": "Trilha bonita e tranquila de realizar."
+    }
+  ],
+  "messages": [
+    {
+      "id": "eba9",
+      "senderName": "teste",
+      "senderEmail": "test@email.com",
+      "recipientDevId": "2",
+      "recipientDevName": "Bianca Silva",
+      "message": "teste tes t",
+      "createdAt": "2025-11-01T17:47:51.645Z"
+    },
+    {
+      "senderName": "Joao colves",
+      "senderEmail": "araa1995@hotmail.com",
+      "recipientDevId": "1",
+      "recipientDevName": "Alex Johnson",
+      "message": "Olá vamos nessa alex seu filho de uma boa mae",
+      "createdAt": "2025-11-28T14:32:01.938Z",
+      "id": "DTpNV5X"
+    }
+  ]
+}
