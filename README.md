@@ -3,9 +3,9 @@
 
 # Dados dos integrantes da equipe:
 
-Jonathas Barbosa Oliveira, 0607662.
+Jonathas Barbosa Oliveira, matrícula 0607662.
 
-Claudio Pereira da Costa, 06010061.
+Claudio Pereira da Costa, matrícula 06010061.
 
 # Escolha da situação-problema:
 
