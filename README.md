@@ -33,8 +33,13 @@ Sugerimos fazer o download em zip do projeto e:
 5- Dentro da pasta raiz do projeto, abrir o terminal bash e instalar o npm com o código do terminal: "npm i" Uma pasta node será instalada na aplicação.
 
 6- Abrir dois terminais bash. Um deles rodar o terminal com "npm start". Isso irá dorar os arquivos da parte BACKEND da aplicação.
+
 7- No outro terminal Bash aberto, dorar com "npm run dev". Isso irá dorar a parte FRONTEND da aplicação.
+
 8- Abra o navegador e digite http://localhost:5173/   . Isso irá abrir o site da aplicação.
+
 9- Faça um registro e salve o login cadastrado e a senha utilizada. Para texte, pode criar NovoTeste@gmail.com  || senha: 123456Aa  .
+
 10- Faça login com os dados criados. 
+
 11- Navegue livremente pela aplicação. 
