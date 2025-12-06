@@ -46,7 +46,7 @@
 
 # Dados dos integrantes da equipe:
 
-Jonathas Barbosa Oliveira, 0607662.
+Jonathas Barbosa Oliveira, 06007662.
 
 Claudio Pereira da Costa, 06010061.
 
