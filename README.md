@@ -3,7 +3,7 @@
 
 # Dados dos integrantes da equipe:
 
-Jonathas Barbosa Oliveira, matrícula 0607662.
+Jonathas Barbosa Oliveira, matrícula 06007662.
 
 Claudio Pereira da Costa, matrícula 06010061.
 
